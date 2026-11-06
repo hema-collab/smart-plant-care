@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login — FloraShield Plant Care</title>
+  <meta name="description" content="Login or create your FloraShield account to access AI plant disease diagnosis, expert care guides, and organic gardening supplies.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/login.css">
+</head>
+
+<body>
+  <div class="login-page">
+
+    <!-- =====================================================
+         LEFT PANEL — Botanical Brand Section
+    ====================================================== -->
+    <div class="login-left" id="left-panel">
+      <!-- Decorative animated circles -->
+      <div class="leaf-bg-circle"></div>
+      <div class="leaf-bg-circle"></div>
+      <div class="leaf-bg-circle"></div>
+
+      <!-- Floating leaf particles (injected by JS) -->
+      <div id="particles-container"></div>
+
+      <!-- Brand content -->
+      <div class="brand-section">
+        <a href="/" class="brand-logo" aria-label="FloraShield Home">
+          <div class="brand-logo-icon">🌿</div>
+          <span class="brand-logo-text">FloraShield</span>
+        </a>
+
+        <h2 class="brand-tagline">
+          Protect every leaf.<br>
+          <span>Powered by AI.</span>
+        </h2>
+
+        <p class="brand-desc">
+          Join thousands of farmers and gardeners using FloraShield to identify diseases early,
+          get expert care guidance, and access premium organic supplies — all in one place.
+        </p>
+
+        <!-- Feature highlights -->
+        <div class="feature-pills">
+          <div class="feature-pill">
+            <div class="feature-pill-icon">🔍</div>
+            <div class="feature-pill-text">AI diagnosis for 9 plant types & 25+ diseases</div>
+          </div>
+          <div class="feature-pill">
+            <div class="feature-pill-icon">🧪</div>
+            <div class="feature-pill-text">10+ organic pesticides & bio-fungicides in stock</div>
+          </div>
+          <div class="feature-pill">
+            <div class="feature-pill-icon">📋</div>
+            <div class="feature-pill-text">Expert watering, fertilizing & pruning schedules</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- =====================================================
+         RIGHT PANEL — Auth Card
+    ====================================================== -->
+    <div class="login-right">
+      <div class="auth-card">
+
+        <!-- Card header -->
+        <div class="card-header">
+          <h1 id="card-title">Welcome Back 👋</h1>
+          <p id="card-subtitle">Sign in to your FloraShield account</p>
+        </div>
+
+        <!-- Tab switcher -->
+        <div class="auth-tabs" role="tablist">
+          <button class="auth-tab-btn active" id="tab-login" role="tab" aria-selected="true" onclick="switchTab('login')">
+            Login
+          </button>
+          <button class="auth-tab-btn" id="tab-register" role="tab" aria-selected="false" onclick="switchTab('register')">
+            Register
+          </button>
+        </div>
+
+        <!-- Error alert -->
+        <div class="alert-error" id="auth-error" role="alert"></div>
+
+        <!-- ==================== LOGIN FORM ==================== -->
+        <div class="auth-form-panel active" id="panel-login">
+          <form id="form-login" novalidate>
+
+            <div class="form-group">
+              <label for="login-email">Email Address</label>
+              <div class="input-wrapper">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" />
+                </svg>
+                <input type="email" id="login-email" class="form-input" placeholder="gardener@example.com" autocomplete="email" required>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="login-password">Password</label>
+              <div class="input-wrapper password-wrapper">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 1 0-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 0 0 2.25-2.25v-6.75a2.25 2.25 0 0 0-2.25-2.25H6.75a2.25 2.25 0 0 0-2.25 2.25v6.75a2.25 2.25 0 0 0 2.25 2.25z" />
+                </svg>
+                <input type="password" id="login-password" class="form-input" placeholder="••••••••" autocomplete="current-password" required>
+                <button type="button" class="password-toggle" onclick="togglePassword('login-password', this)" aria-label="Toggle password visibility">
+                  <svg id="eye-login" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 0 1 0-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+
+            <button type="submit" class="btn-submit" id="btn-login-submit">
+              <span class="btn-text">Sign In to FloraShield</span>
+              <div class="btn-spinner"></div>
+            </button>
+
+          </form>
+
+          <div class="auth-divider">or</div>
+
+          <button class="btn-guest" id="btn-guest" onclick="continueAsGuest()">
+            🌱 Continue as Guest
+          </button>
+        </div>
+
+        <!-- ==================== REGISTER FORM ==================== -->
+        <div class="auth-form-panel" id="panel-register">
+          <form id="form-register" novalidate>
+
+            <div class="form-group">
+              <label for="reg-name">Full Name / Username</label>
+              <div class="input-wrapper">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0zM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632z" />
+                </svg>
+                <input type="text" id="reg-name" class="form-input" placeholder="GreenGardener123" autocomplete="name" required>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="reg-email">Email Address</label>
+              <div class="input-wrapper">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" />
+                </svg>
+                <input type="email" id="reg-email" class="form-input" placeholder="gardener@example.com" autocomplete="email" required>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="reg-password">Password</label>
+              <div class="input-wrapper password-wrapper">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 1 0-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 0 0 2.25-2.25v-6.75a2.25 2.25 0 0 0-2.25-2.25H6.75a2.25 2.25 0 0 0-2.25 2.25v6.75a2.25 2.25 0 0 0 2.25 2.25z" />
+                </svg>
+                <input type="password" id="reg-password" class="form-input" placeholder="Minimum 6 characters" autocomplete="new-password" required>
+                <button type="button" class="password-toggle" onclick="togglePassword('reg-password', this)" aria-label="Toggle password visibility">
+                  <svg id="eye-reg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 0 1 0-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+
+            <button type="submit" class="btn-submit" id="btn-register-submit">
+              <span class="btn-text">Create My Account</span>
+              <div class="btn-spinner"></div>
+            </button>
+
+          </form>
+        </div>
+
+        <!-- Back to app -->
+        <div class="back-link">
+          <a href="/" id="back-home-link">← Back to FloraShield App</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    // =====================================================
+    // Floating leaf particles animation
+    // =====================================================
+    (function spawnParticles() {
+      const leaves = ['🍃', '🌿', '🍀', '🌱', '🪴'];
+      const container = document.getElementById('particles-container');
+      const panel = document.getElementById('left-panel');
+
+      function createLeaf() {
+        const el = document.createElement('div');
+        el.classList.add('leaf-particle');
+        el.textContent = leaves[Math.floor(Math.random() * leaves.length)];
+
+        const left = Math.random() * 100;
+        const duration = 8 + Math.random() * 10;
+        const delay = Math.random() * 6;
+        const size = 0.8 + Math.random() * 1.2;
+
+        el.style.cssText = `
+          left: ${left}%;
+          font-size: ${size}rem;
+          animation-duration: ${duration}s;
+          animation-delay: -${delay}s;
+        `;
+
+        container.appendChild(el);
+        setTimeout(() => el.remove(), (duration + delay) * 1000);
+      }
+
+      for (let i = 0; i < 14; i++) createLeaf();
+      setInterval(createLeaf, 2000);
+    })();
+
+    // =====================================================
+    // Tab switcher
+    // =====================================================
+    function switchTab(tab) {
+      const loginTab = document.getElementById('tab-login');
+      const registerTab = document.getElementById('tab-register');
+      const loginPanel = document.getElementById('panel-login');
+      const registerPanel = document.getElementById('panel-register');
+      const title = document.getElementById('card-title');
+      const subtitle = document.getElementById('card-subtitle');
+      const errorEl = document.getElementById('auth-error');
+
+      errorEl.classList.remove('show');
+
+      if (tab === 'login') {
+        loginTab.classList.add('active');
+        registerTab.classList.remove('active');
+        loginPanel.classList.add('active');
+        registerPanel.classList.remove('active');
+        title.textContent = 'Welcome Back 👋';
+        subtitle.textContent = 'Sign in to your FloraShield account';
+      } else {
+        registerTab.classList.add('active');
+        loginTab.classList.remove('active');
+        registerPanel.classList.add('active');
+        loginPanel.classList.remove('active');
+        title.textContent = 'Join FloraShield 🌱';
+        subtitle.textContent = 'Create your free gardener account';
+      }
+    }
+
+    // =====================================================
+    // Password show/hide toggle
+    // =====================================================
+    function togglePassword(inputId, btn) {
+      const input = document.getElementById(inputId);
+      const isPassword = input.type === 'password';
+      input.type = isPassword ? 'text' : 'password';
+
+      btn.innerHTML = isPassword
+        ? `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor" style="width:17px;height:17px">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M3.98 8.223A10.477 10.477 0 0 0 1.934 12C3.226 16.338 7.244 19.5 12 19.5c.993 0 1.953-.138 2.863-.395M6.228 6.228A10.451 10.451 0 0 1 12 4.5c4.756 0 8.773 3.162 10.065 7.498a10.522 10.522 0 0 1-4.293 5.774M6.228 6.228 3 3m3.228 3.228 3.65 3.65m7.894 7.894L21 21m-3.228-3.228-3.65-3.65m0 0a3 3 0 1 0-4.243-4.243m4.242 4.242L9.88 9.88" />
+          </svg>`
+        : `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor" style="width:17px;height:17px">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 0 1 0-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+            <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" />
+          </svg>`;
+    }
+
+    // =====================================================
+    // Show error helper
+    // =====================================================
+    function showError(message) {
+      const el = document.getElementById('auth-error');
+      el.textContent = message;
+      el.classList.add('show');
+    }
+
+    function setLoading(btnId, loading) {
+      const btn = document.getElementById(btnId);
+      if (loading) btn.classList.add('loading');
+      else btn.classList.remove('loading');
+      btn.disabled = loading;
+    }
+
+    // =====================================================
+    // Login Handler
+    // =====================================================
+    document.getElementById('form-login').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const email = document.getElementById('login-email').value.trim();
+      const password = document.getElementById('login-password').value;
+      const errorEl = document.getElementById('auth-error');
+      errorEl.classList.remove('show');
+
+      if (!email || !password) {
+        showError('Please enter your email and password.');
+        return;
+      }
+
+      setLoading('btn-login-submit', true);
+
+      try {
+        const res = await fetch('/api/auth/login', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email, password })
+        });
+        const data = await res.json();
+
+        if (!res.ok) throw new Error(data.error || 'Login failed. Please check your credentials.');
+
+        // Store auth
+        localStorage.setItem('flora_token', data.token);
+        localStorage.setItem('flora_user', JSON.stringify(data.user));
+        localStorage.setItem('flora_toast', 'Welcome back, ' + data.user.username + '! 👋');
+
+        // Redirect to app
+        window.location.href = '/';
+
+      } catch (err) {
+        showError(err.message);
+        setLoading('btn-login-submit', false);
+      }
+    });
+
+    // =====================================================
+    // Register Handler
+    // =====================================================
+    document.getElementById('form-register').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const username = document.getElementById('reg-name').value.trim();
+      const email = document.getElementById('reg-email').value.trim();
+      const password = document.getElementById('reg-password').value;
+      const errorEl = document.getElementById('auth-error');
+      errorEl.classList.remove('show');
+
+      if (!username || !email || !password) {
+        showError('Please fill in all fields.');
+        return;
+      }
+      if (password.length < 6) {
+        showError('Password must be at least 6 characters.');
+        return;
+      }
+
+      setLoading('btn-register-submit', true);
+
+      try {
+        const res = await fetch('/api/auth/register', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ username, email, password })
+        });
+        const data = await res.json();
+
+        if (!res.ok) throw new Error(data.error || 'Registration failed. Please try again.');
+
+        // Store auth
+        localStorage.setItem('flora_token', data.token);
+        localStorage.setItem('flora_user', JSON.stringify(data.user));
+        localStorage.setItem('flora_toast', 'Account created! Welcome to FloraShield 🌿');
+
+        // Redirect to app
+        window.location.href = '/';
+
+      } catch (err) {
+        showError(err.message);
+        setLoading('btn-register-submit', false);
+      }
+    });
+
+    // =====================================================
+    // Continue as Guest
+    // =====================================================
+    function continueAsGuest() {
+      window.location.href = '/';
+    }
+
+    // =====================================================
+    // Auto-tab from URL param: /login?mode=register
+    // =====================================================
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('mode') === 'register') {
+      switchTab('register');
+    }
+
+    // =====================================================
+    // Redirect if already logged in
+    // =====================================================
+    if (localStorage.getItem('flora_token') && localStorage.getItem('flora_user')) {
+      window.location.href = '/';
+    }
+  </script>
+
+</body>
+
+</html>

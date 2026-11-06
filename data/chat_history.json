@@ -1,0 +1,480 @@
+[
+  {
+    "id": "kwavukz6pmtk5v126",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-02T13:57:47.163Z",
+    "createdAt": "2026-09-02T13:57:47.167Z"
+  },
+  {
+    "id": "9i7hphcjamtk5v6eu",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-02T13:57:54.100Z",
+    "createdAt": "2026-09-02T13:57:54.102Z"
+  },
+  {
+    "id": "to51ku1mwmtk5viuh",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "[Uploaded Image: chat-1788357489986-672119675.jpeg]",
+    "botResponse": "🧠 **CNN Disease Detection Result**\n\n**Disease Detected:** Apple Scab\n**Plant Type:** Apple\n**Confidence:** 96.2%\n**Method:** 🔍 Detected using image analysis\n\n🔬 **Apple Scab** (Venturia inaequalis)\n**Plant:** Apple\n\n**Symptoms:**\n• Olive-green, velvety spots appearing on the top and bottom of leaves.\n• Leaves twist, pucker, and turn yellow, resulting in early leaf drop.\n• Apples show corky, scabby brown lesions that crack as they expand, distorting fruit shape.\n\n**Causes:**\nVenturia inaequalis fungus. Overwinters on fallen dead leaves. Spores are released by spring rains and blown by wind onto new leaves.\n\n**Treatment:**\n✔ Apply organic sulfur or copper fungicides starting from green tip stage in spring through petal fall.\n✔ Remove scabby fruit from the tree early to focus tree energy on healthy fruit.\n✔ Apply agricultural lime to fallen leaves in autumn to accelerate leaf decomposition.\n\n**Prevention:**\n🛡️ Rake and destroy all fallen leaves in autumn to eliminate overwintering spores.\n🛡️ Plant scab-resistant cultivars (e.g., Honeycrisp, Liberty, Enterprise).\n🛡️ Prune branches to open up the canopy, letting leaves dry quickly after rains.\n\n⚠️ For accurate diagnosis, please also consult a local agricultural expert.",
+    "disease": "Apple Scab",
+    "confidence": 96.2,
+    "language": "en",
+    "timestamp": "2026-09-02T13:58:10.212Z",
+    "createdAt": "2026-09-02T13:58:10.217Z"
+  },
+  {
+    "id": "3gs52rlrcmtk5vwai",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 ನಮಸ್ಕಾರ! ನಾನು **FloraBot**, ನಿಮ್ಮ ಸ್ಮಾರ್ಟ್ ಸಸ್ಯ ಆರೈಕೆ ಸಹಾಯಕ.\n\nನಾನು ಇವುಗಳಲ್ಲಿ ಸಹಾಯ ಮಾಡಬಲ್ಲೆ:\n• 🔬 **ರೋಗ ಪತ್ತೆ** — ಎಲೆ ಚಿತ್ರ ಅಪ್ಲೋಡ್ ಮಾಡಿ\n• 🌱 **ಸಸ್ಯ ಆರೈಕೆ** — ನೀರು, ಕತ್ತರಿಸುವಿಕೆ, ಮಣ್ಣು\n• 🧪 **ರಸಗೊಬ್ಬರ ಮಾರ್ಗದರ್ಶನ**\n• 🛡️ **ಕೀಟನಾಶಕ ಮಾಹಿತಿ**\n• 🛒 **ಉತ್ಪನ್ನ ಶಿಫಾರಸುಗಳು**\n\nಇಂದು ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು?",
+    "language": "kn",
+    "timestamp": "2026-09-02T13:58:27.640Z",
+    "createdAt": "2026-09-02T13:58:27.642Z"
+  },
+  {
+    "id": "w5q5x2s94mtk5wb51",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 నమస్కారం! నేను **FloraBot**, మీ స్మార్ట్ మొక్కల సంరక్షణ సహాయకుడిని.\n\nనేను వీటిలో సహాయం చేయగలను:\n• 🔬 **వ్యాధి గుర్తింపు**\n• 🌱 **మొక్కల సంరక్షణ**\n• 🧪 **ఎరువుల మార్గదర్శకత్వం**\n• 🛡️ **పురుగుమందుల సమాచారం**\n• 🛒 **ఉత్పత్తి సిఫార్సులు**",
+    "language": "te",
+    "timestamp": "2026-09-02T13:58:46.882Z",
+    "createdAt": "2026-09-02T13:58:46.885Z"
+  },
+  {
+    "id": "ds15sczxxmtk6965r",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-02T14:08:46.957Z",
+    "createdAt": "2026-09-02T14:08:46.959Z"
+  },
+  {
+    "id": "9azk2uhdrmtk69gye",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "[Uploaded Image: chat-1788358140867-206082308.jpeg]",
+    "botResponse": "🧠 **CNN Disease Detection Result**\n\n**Disease Detected:** Apple Scab\n**Plant Type:** Apple\n**Confidence:** 96.2%\n**Method:** 🔍 Detected using image analysis\n\n🔬 **Apple Scab** (Venturia inaequalis)\n**Plant:** Apple\n\n**Symptoms:**\n• Olive-green, velvety spots appearing on the top and bottom of leaves.\n• Leaves twist, pucker, and turn yellow, resulting in early leaf drop.\n• Apples show corky, scabby brown lesions that crack as they expand, distorting fruit shape.\n\n**Causes:**\nVenturia inaequalis fungus. Overwinters on fallen dead leaves. Spores are released by spring rains and blown by wind onto new leaves.\n\n**Treatment:**\n✔ Apply organic sulfur or copper fungicides starting from green tip stage in spring through petal fall.\n✔ Remove scabby fruit from the tree early to focus tree energy on healthy fruit.\n✔ Apply agricultural lime to fallen leaves in autumn to accelerate leaf decomposition.\n\n**Prevention:**\n🛡️ Rake and destroy all fallen leaves in autumn to eliminate overwintering spores.\n🛡️ Plant scab-resistant cultivars (e.g., Honeycrisp, Liberty, Enterprise).\n🛡️ Prune branches to open up the canopy, letting leaves dry quickly after rains.\n\n⚠️ For accurate diagnosis, please also consult a local agricultural expert.",
+    "disease": "Apple Scab",
+    "confidence": 96.2,
+    "language": "en",
+    "timestamp": "2026-09-02T14:09:00.945Z",
+    "createdAt": "2026-09-02T14:09:00.950Z"
+  },
+  {
+    "id": "d5uuhf7y8mtka3sbu",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-02T15:56:34.214Z",
+    "createdAt": "2026-09-02T15:56:34.218Z"
+  },
+  {
+    "id": "owfwgtta1mtka495n",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "[Uploaded Image: chat-1788364615941-485433744.jpeg]",
+    "botResponse": "🧠 **CNN Disease Detection Result**\n\n**Disease Detected:** Apple Scab\n**Plant Type:** Apple\n**Confidence:** 96.2%\n**Method:** 🔍 Detected using image analysis\n\n🔬 **Apple Scab** (Venturia inaequalis)\n**Plant:** Apple\n\n**Symptoms:**\n• Olive-green, velvety spots appearing on the top and bottom of leaves.\n• Leaves twist, pucker, and turn yellow, resulting in early leaf drop.\n• Apples show corky, scabby brown lesions that crack as they expand, distorting fruit shape.\n\n**Causes:**\nVenturia inaequalis fungus. Overwinters on fallen dead leaves. Spores are released by spring rains and blown by wind onto new leaves.\n\n**Treatment:**\n✔ Apply organic sulfur or copper fungicides starting from green tip stage in spring through petal fall.\n✔ Remove scabby fruit from the tree early to focus tree energy on healthy fruit.\n✔ Apply agricultural lime to fallen leaves in autumn to accelerate leaf decomposition.\n\n**Prevention:**\n🛡️ Rake and destroy all fallen leaves in autumn to eliminate overwintering spores.\n🛡️ Plant scab-resistant cultivars (e.g., Honeycrisp, Liberty, Enterprise).\n🛡️ Prune branches to open up the canopy, letting leaves dry quickly after rains.\n\n⚠️ For accurate diagnosis, please also consult a local agricultural expert.",
+    "disease": "Apple Scab",
+    "confidence": 96.2,
+    "language": "en",
+    "timestamp": "2026-09-02T15:56:56.021Z",
+    "createdAt": "2026-09-02T15:56:56.027Z"
+  },
+  {
+    "id": "krhhamdwqmtkah29e",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-02T16:06:53.616Z",
+    "createdAt": "2026-09-02T16:06:53.618Z"
+  },
+  {
+    "id": "8dn8xz83tmtkah3s5",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-02T16:06:55.587Z",
+    "createdAt": "2026-09-02T16:06:55.589Z"
+  },
+  {
+    "id": "pfmiad4h3mtkahbnv",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "[Uploaded Image: chat-1788365225763-973214306.jpeg]",
+    "botResponse": "🧠 **CNN Disease Detection Result**\n\n**Disease Detected:** Apple Scab\n**Plant Type:** Apple\n**Confidence:** 96.2%\n**Method:** 🔍 Detected using image analysis\n\n🔬 **Apple Scab** (Venturia inaequalis)\n**Plant:** Apple\n\n**Symptoms:**\n• Olive-green, velvety spots appearing on the top and bottom of leaves.\n• Leaves twist, pucker, and turn yellow, resulting in early leaf drop.\n• Apples show corky, scabby brown lesions that crack as they expand, distorting fruit shape.\n\n**Causes:**\nVenturia inaequalis fungus. Overwinters on fallen dead leaves. Spores are released by spring rains and blown by wind onto new leaves.\n\n**Treatment:**\n✔ Apply organic sulfur or copper fungicides starting from green tip stage in spring through petal fall.\n✔ Remove scabby fruit from the tree early to focus tree energy on healthy fruit.\n✔ Apply agricultural lime to fallen leaves in autumn to accelerate leaf decomposition.\n\n**Prevention:**\n🛡️ Rake and destroy all fallen leaves in autumn to eliminate overwintering spores.\n🛡️ Plant scab-resistant cultivars (e.g., Honeycrisp, Liberty, Enterprise).\n🛡️ Prune branches to open up the canopy, letting leaves dry quickly after rains.\n\n⚠️ For accurate diagnosis, please also consult a local agricultural expert.",
+    "disease": "Apple Scab",
+    "confidence": 96.2,
+    "language": "en",
+    "timestamp": "2026-09-02T16:07:05.800Z",
+    "createdAt": "2026-09-02T16:07:05.803Z"
+  },
+  {
+    "id": "lzh4vx838mtkahiuo",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "How to prevent Apple Scab",
+    "botResponse": "🔬 **Apple Scab** (Venturia inaequalis)\n**Plant:** Apple\n\n**Symptoms:**\n• Olive-green, velvety spots appearing on the top and bottom of leaves.\n• Leaves twist, pucker, and turn yellow, resulting in early leaf drop.\n• Apples show corky, scabby brown lesions that crack as they expand, distorting fruit shape.\n\n**Causes:**\nVenturia inaequalis fungus. Overwinters on fallen dead leaves. Spores are released by spring rains and blown by wind onto new leaves.\n\n**Treatment:**\n✔ Apply organic sulfur or copper fungicides starting from green tip stage in spring through petal fall.\n✔ Remove scabby fruit from the tree early to focus tree energy on healthy fruit.\n✔ Apply agricultural lime to fallen leaves in autumn to accelerate leaf decomposition.\n\n**Prevention:**\n🛡️ Rake and destroy all fallen leaves in autumn to eliminate overwintering spores.\n🛡️ Plant scab-resistant cultivars (e.g., Honeycrisp, Liberty, Enterprise).\n🛡️ Prune branches to open up the canopy, letting leaves dry quickly after rains.",
+    "language": "en",
+    "timestamp": "2026-09-02T16:07:15.118Z",
+    "createdAt": "2026-09-02T16:07:15.120Z"
+  },
+  {
+    "id": "e0kwm9snlmtkaho29",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "Fertilizer for Apple",
+    "botResponse": "🌱 **Fertilizer Guidance for Apple:**\n\n• Use a balanced NPK fertilizer (e.g., 10-10-10) during the vegetative growth stage.\n• Switch to a low-nitrogen, high-phosphorus formula (e.g., 5-10-10) during flowering.\n• Add organic compost for slow-release nutrition.\n• Apply potassium supplements for fruit quality.\n\n⚠️ Always follow the manufacturer's instructions for dosage.\n\n⚠️ Always read the product label before use. Follow local safety guidelines.",
+    "language": "en",
+    "timestamp": "2026-09-02T16:07:21.871Z",
+    "createdAt": "2026-09-02T16:07:21.873Z"
+  },
+  {
+    "id": "61de19qrpmtkaloqt",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-02T16:10:29.378Z",
+    "createdAt": "2026-09-02T16:10:29.381Z"
+  },
+  {
+    "id": "ie88eiekrmtkals7h",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-02T16:10:33.863Z",
+    "createdAt": "2026-09-02T16:10:33.869Z"
+  },
+  {
+    "id": "mzn4oiew9mtkam1bx",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "[Uploaded Image: chat-1788365445347-342242122.jpeg]",
+    "botResponse": "🧠 **CNN Disease Detection Result**\n\n**Disease Detected:** Apple Scab\n**Plant Type:** Apple\n**Confidence:** 96.2%\n**Method:** 🔍 Detected using image analysis\n\n🔬 **Apple Scab** (Venturia inaequalis)\n**Plant:** Apple\n\n**Symptoms:**\n• Olive-green, velvety spots appearing on the top and bottom of leaves.\n• Leaves twist, pucker, and turn yellow, resulting in early leaf drop.\n• Apples show corky, scabby brown lesions that crack as they expand, distorting fruit shape.\n\n**Causes:**\nVenturia inaequalis fungus. Overwinters on fallen dead leaves. Spores are released by spring rains and blown by wind onto new leaves.\n\n**Treatment:**\n✔ Apply organic sulfur or copper fungicides starting from green tip stage in spring through petal fall.\n✔ Remove scabby fruit from the tree early to focus tree energy on healthy fruit.\n✔ Apply agricultural lime to fallen leaves in autumn to accelerate leaf decomposition.\n\n**Prevention:**\n🛡️ Rake and destroy all fallen leaves in autumn to eliminate overwintering spores.\n🛡️ Plant scab-resistant cultivars (e.g., Honeycrisp, Liberty, Enterprise).\n🛡️ Prune branches to open up the canopy, letting leaves dry quickly after rains.\n\n⚠️ For accurate diagnosis, please also consult a local agricultural expert.",
+    "disease": "Apple Scab",
+    "confidence": 96.2,
+    "language": "en",
+    "timestamp": "2026-09-02T16:10:45.689Z",
+    "createdAt": "2026-09-02T16:10:45.693Z"
+  },
+  {
+    "id": "jt839o28vmtn47chd",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-04T15:34:41.134Z",
+    "createdAt": "2026-09-04T15:34:41.137Z"
+  },
+  {
+    "id": "j55b5f34emtn49nkb",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "[Uploaded Image: chat-1788536188785-728903533.jpg]",
+    "botResponse": "🧠 **CNN Disease Detection Result**\n\n**Disease Detected:** Leaf Scorch\n**Plant Type:** Strawberry\n**Confidence:** 87.6%\n**Method:** 🔍 Detected using image analysis\n\n🔬 **Leaf Scorch** (Diplocarpon earlianum)\n**Plant:** Strawberry\n\n**Symptoms:**\n• Numerous small, irregular, dark purple to red spots scattered across the upper leaf surface.\n• Spots enlarge and their centers turn grayish-brown while margins remain dark purple.\n• Severely infected leaves appear 'scorched', curl upward, and drop prematurely.\n\n**Causes:**\nDiplocarpon earlianum fungus. Overwinters in infected leaf tissue and crowns. Wet, rainy spring weather triggers mass spore release.\n\n**Treatment:**\n✔ Apply captan, thiram, or myclobutanil fungicides at 7–10 day intervals during wet spring seasons.\n✔ Renovate strawberry beds after harvest by mowing and removing old foliage.\n✔ Mulch beds with straw to reduce soil splash that spreads fungal spores.\n\n**Prevention:**\n🛡️ Remove and destroy all old leaf debris before new growth emerges each spring.\n🛡️ Avoid overhead watering; use drip irrigation to keep leaves dry.\n🛡️ Space strawberry plants adequately (12–18 inches apart) for good air circulation.\n\n⚠️ For accurate diagnosis, please also consult a local agricultural expert.",
+    "disease": "Leaf Scorch",
+    "confidence": 87.6,
+    "language": "en",
+    "timestamp": "2026-09-04T15:36:28.809Z",
+    "createdAt": "2026-09-04T15:36:28.811Z"
+  },
+  {
+    "id": "oenbvagpqmtn4l4d3",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-04T15:45:23.797Z",
+    "createdAt": "2026-09-04T15:45:23.799Z"
+  },
+  {
+    "id": "bir8bcvlumtn4lg85",
+    "sessionId": "session_4f22l3f6d",
+    "userId": null,
+    "userMessage": "[Uploaded Image: chat-1788536739147-722997262.jpg]",
+    "botResponse": "🧠 **CNN Disease Detection Result**\n\n**Disease Detected:** Leaf Scorch\n**Plant Type:** Strawberry\n**Confidence:** 87.6%\n**Method:** 🔍 Detected using image analysis\n\n🔬 **Leaf Scorch** (Diplocarpon earlianum)\n**Plant:** Strawberry\n\n**Symptoms:**\n• Numerous small, irregular, dark purple to red spots scattered across the upper leaf surface.\n• Spots enlarge and their centers turn grayish-brown while margins remain dark purple.\n• Severely infected leaves appear 'scorched', curl upward, and drop prematurely.\n\n**Causes:**\nDiplocarpon earlianum fungus. Overwinters in infected leaf tissue and crowns. Wet, rainy spring weather triggers mass spore release.\n\n**Treatment:**\n✔ Apply captan, thiram, or myclobutanil fungicides at 7–10 day intervals during wet spring seasons.\n✔ Renovate strawberry beds after harvest by mowing and removing old foliage.\n✔ Mulch beds with straw to reduce soil splash that spreads fungal spores.\n\n**Prevention:**\n🛡️ Remove and destroy all old leaf debris before new growth emerges each spring.\n🛡️ Avoid overhead watering; use drip irrigation to keep leaves dry.\n🛡️ Space strawberry plants adequately (12–18 inches apart) for good air circulation.\n\n⚠️ For accurate diagnosis, please also consult a local agricultural expert.",
+    "disease": "Leaf Scorch",
+    "confidence": 87.6,
+    "language": "en",
+    "timestamp": "2026-09-04T15:45:39.171Z",
+    "createdAt": "2026-09-04T15:45:39.173Z"
+  },
+  {
+    "id": "66hel3c9nmtrfhk49",
+    "sessionId": "session_qvnubb3az",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-07T16:01:38.064Z",
+    "createdAt": "2026-09-07T16:01:38.073Z"
+  },
+  {
+    "id": "nift503ekmtrfht9z",
+    "sessionId": "session_qvnubb3az",
+    "userId": "cmclwpdnimsewbhfd",
+    "userMessage": "[Uploaded Image: chat-1788796908807-824295540.jpg]",
+    "botResponse": "🧠 **CNN Disease Detection Result**\n\n**Disease Detected:** Leaf Scorch\n**Plant Type:** Strawberry\n**Confidence:** 87.6%\n**Method:** 🔍 Detected using image analysis\n\n🔬 **Leaf Scorch** (Diplocarpon earlianum)\n**Plant:** Strawberry\n\n**Symptoms:**\n• Numerous small, irregular, dark purple to red spots scattered across the upper leaf surface.\n• Spots enlarge and their centers turn grayish-brown while margins remain dark purple.\n• Severely infected leaves appear 'scorched', curl upward, and drop prematurely.\n\n**Causes:**\nDiplocarpon earlianum fungus. Overwinters in infected leaf tissue and crowns. Wet, rainy spring weather triggers mass spore release.\n\n**Treatment:**\n✔ Apply captan, thiram, or myclobutanil fungicides at 7–10 day intervals during wet spring seasons.\n✔ Renovate strawberry beds after harvest by mowing and removing old foliage.\n✔ Mulch beds with straw to reduce soil splash that spreads fungal spores.\n\n**Prevention:**\n🛡️ Remove and destroy all old leaf debris before new growth emerges each spring.\n🛡️ Avoid overhead watering; use drip irrigation to keep leaves dry.\n🛡️ Space strawberry plants adequately (12–18 inches apart) for good air circulation.\n\n⚠️ For accurate diagnosis, please also consult a local agricultural expert.",
+    "disease": "Leaf Scorch",
+    "confidence": 87.6,
+    "language": "en",
+    "timestamp": "2026-09-07T16:01:49.941Z",
+    "createdAt": "2026-09-07T16:01:49.943Z"
+  },
+  {
+    "id": "fy8qwyyctmufpi2b4",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-24T15:48:26.027Z",
+    "createdAt": "2026-09-24T15:48:26.032Z"
+  },
+  {
+    "id": "pvtqsbakwmufppa0h",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "[Uploaded Image: chat-1790265241095-270158118.jpg]",
+    "botResponse": "🧠 **CNN Disease Detection Result**\n\n**Disease Detected:** Leaf Scorch\n**Plant Type:** Strawberry\n**Confidence:** 87.6%\n**Method:** 🔍 Detected using image analysis\n\n🔬 **Leaf Scorch** (Diplocarpon earlianum)\n**Plant:** Strawberry\n\n**Symptoms:**\n• Numerous small, irregular, dark purple to red spots scattered across the upper leaf surface.\n• Spots enlarge and their centers turn grayish-brown while margins remain dark purple.\n• Severely infected leaves appear 'scorched', curl upward, and drop prematurely.\n\n**Causes:**\nDiplocarpon earlianum fungus. Overwinters in infected leaf tissue and crowns. Wet, rainy spring weather triggers mass spore release.\n\n**Treatment:**\n✔ Apply captan, thiram, or myclobutanil fungicides at 7–10 day intervals during wet spring seasons.\n✔ Renovate strawberry beds after harvest by mowing and removing old foliage.\n✔ Mulch beds with straw to reduce soil splash that spreads fungal spores.\n\n**Prevention:**\n🛡️ Remove and destroy all old leaf debris before new growth emerges each spring.\n🛡️ Avoid overhead watering; use drip irrigation to keep leaves dry.\n🛡️ Space strawberry plants adequately (12–18 inches apart) for good air circulation.\n\n⚠️ For accurate diagnosis, please also consult a local agricultural expert.",
+    "disease": "Leaf Scorch",
+    "confidence": 87.6,
+    "language": "en",
+    "timestamp": "2026-09-24T15:54:02.605Z",
+    "createdAt": "2026-09-24T15:54:02.609Z"
+  },
+  {
+    "id": "d6kfn9kiymuh3tpgs",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-09-25T15:17:10.057Z",
+    "createdAt": "2026-09-25T15:17:10.060Z"
+  },
+  {
+    "id": "wizj453sbmuwq9kii",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-10-06T13:41:54.327Z",
+    "createdAt": "2026-10-06T13:41:54.330Z"
+  },
+  {
+    "id": "pl7duryyumuwqpyrn",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-10-06T13:54:39.294Z",
+    "createdAt": "2026-10-06T13:54:39.299Z"
+  },
+  {
+    "id": "nm96vq49zmuwt5ulw",
+    "sessionId": "session_9fy1i92lj",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-10-06T15:02:59.631Z",
+    "createdAt": "2026-10-06T15:02:59.636Z"
+  },
+  {
+    "id": "xl96m3ofsmv6v2wlj",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-10-13T15:54:23.236Z",
+    "createdAt": "2026-10-13T15:54:23.239Z"
+  },
+  {
+    "id": "89bhdv1gfmv6vawu9",
+    "sessionId": "session_qvnubb3az",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-10-13T16:00:36.797Z",
+    "createdAt": "2026-10-13T16:00:36.801Z"
+  },
+  {
+    "id": "4b9jihuwjmv6vbmpr",
+    "sessionId": "session_qvnubb3az",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-10-13T16:01:10.331Z",
+    "createdAt": "2026-10-13T16:01:10.335Z"
+  },
+  {
+    "id": "7cb3gat38mvmmv2w1",
+    "sessionId": "session_qvnubb3az",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-10-24T16:48:40.031Z",
+    "createdAt": "2026-10-24T16:48:40.033Z"
+  },
+  {
+    "id": "yy8du7rdvmvmmw28c",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-10-24T16:49:25.834Z",
+    "createdAt": "2026-10-24T16:49:25.836Z"
+  },
+  {
+    "id": "spfczmjmomvncqdnc",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-10-25T04:52:50.702Z",
+    "createdAt": "2026-10-25T04:52:50.713Z"
+  },
+  {
+    "id": "apbqc3k1jmvncqdqg",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-10-25T04:52:50.817Z",
+    "createdAt": "2026-10-25T04:52:50.824Z"
+  },
+  {
+    "id": "c3fnxqa41mw0u30kv",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-11-03T15:19:34.060Z",
+    "createdAt": "2026-11-03T15:19:34.063Z"
+  },
+  {
+    "id": "cu41vj1mlmw0uac2h",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-11-03T15:25:15.542Z",
+    "createdAt": "2026-11-03T15:25:15.545Z"
+  },
+  {
+    "id": "pvquwg3bgmw0ubucx",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-11-03T15:26:25.903Z",
+    "createdAt": "2026-11-03T15:26:25.905Z"
+  },
+  {
+    "id": "7ii2lv3k9mw1me6q9",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-11-04T04:32:04.492Z",
+    "createdAt": "2026-11-04T04:32:04.497Z"
+  },
+  {
+    "id": "ttvzulmplmw1mepwq",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-11-04T04:32:29.349Z",
+    "createdAt": "2026-11-04T04:32:29.354Z"
+  },
+  {
+    "id": "c7l03f3ptmw1rju9r",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-11-04T06:56:26.361Z",
+    "createdAt": "2026-11-04T06:56:26.367Z"
+  },
+  {
+    "id": "w2ht1da56mw1rrpn7",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 ನಮಸ್ಕಾರ! ನಾನು **FloraBot**, ನಿಮ್ಮ ಸ್ಮಾರ್ಟ್ ಸಸ್ಯ ಆರೈಕೆ ಸಹಾಯಕ.\n\nನಾನು ಇವುಗಳಲ್ಲಿ ಸಹಾಯ ಮಾಡಬಲ್ಲೆ:\n• 🔬 **ರೋಗ ಪತ್ತೆ** — ಎಲೆ ಚಿತ್ರ ಅಪ್ಲೋಡ್ ಮಾಡಿ\n• 🌱 **ಸಸ್ಯ ಆರೈಕೆ** — ನೀರು, ಕತ್ತರಿಸುವಿಕೆ, ಮಣ್ಣು\n• 🧪 **ರಸಗೊಬ್ಬರ ಮಾರ್ಗದರ್ಶನ**\n• 🛡️ **ಕೀಟನಾಶಕ ಮಾಹಿತಿ**\n• 🛒 **ಉತ್ಪನ್ನ ಶಿಫಾರಸುಗಳು**\n\nಇಂದು ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು?",
+    "language": "kn",
+    "timestamp": "2026-11-04T07:02:33.614Z",
+    "createdAt": "2026-11-04T07:02:33.619Z"
+  },
+  {
+    "id": "97k8uegw4mw1rrul0",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-11-04T07:02:40.015Z",
+    "createdAt": "2026-11-04T07:02:40.020Z"
+  },
+  {
+    "id": "vnt51io0lmw1uj6nr",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "Show me organic fertilizers",
+    "botResponse": "🌱 **Fertilizer Guidance for General Crops:**\n\n• Use a balanced NPK fertilizer (e.g., 10-10-10) during the vegetative growth stage.\n• Switch to a low-nitrogen, high-phosphorus formula (e.g., 5-10-10) during flowering.\n• Add organic compost for slow-release nutrition.\n• Apply potassium supplements for fruit quality.\n\n⚠️ Always follow the manufacturer's instructions for dosage.\n\n⚠️ Always read the product label before use. Follow local safety guidelines.",
+    "language": "en",
+    "timestamp": "2026-11-04T08:19:54.610Z",
+    "createdAt": "2026-11-04T08:19:54.615Z"
+  },
+  {
+    "id": "qzqkzeetrmw1uk3sn",
+    "sessionId": "session_odgf7kwly",
+    "userId": null,
+    "userMessage": "",
+    "botResponse": "🌿 Hello! I'm **FloraBot**, your smart plant care assistant.\n\nI can help you with:\n• 🔬 **Disease Detection** — Upload a leaf image\n• 🌱 **Plant Care Tips** — Watering, pruning, soil\n• 🧪 **Fertilizer Guidance** — NPK, organic, compost\n• 🛡️ **Pesticide Information** — Safe usage & types\n• 🛒 **Product Recommendations** — Buy from our shop\n• 🧰 **Tool Guidance** — Choosing the right tools\n\nHow can I help you today?",
+    "language": "en",
+    "timestamp": "2026-11-04T08:20:37.556Z",
+    "createdAt": "2026-11-04T08:20:37.559Z"
+  }
+]

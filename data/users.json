@@ -1,0 +1,18 @@
+[
+  {
+    "id": "i2dtvcr71msew4fof",
+    "username": "Admin Gardener",
+    "email": "admin@example.com",
+    "passwordHash": "$2a$10$Vg8EZPv/13.2UT2FHIvppeUjsDyywYwAuk6j4eVR5b4GFRcORnFOS",
+    "role": "admin",
+    "createdAt": "2026-08-04T16:46:36.639Z"
+  },
+  {
+    "id": "cmclwpdnimsewbhfd",
+    "username": "Test Buyer",
+    "email": "buyer@example.com",
+    "passwordHash": "$2a$10$WYtp.V3MtbCnLFG44MtKxe0PAZ0NuqiG156hJ8sLyrE8l9GhGVeIq",
+    "role": "user",
+    "createdAt": "2026-08-04T16:52:05.497Z"
+  }
+]

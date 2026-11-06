@@ -1,0 +1,450 @@
+[
+  {
+    "id": "prod_1",
+    "name": "Premium Neem Oil Spray",
+    "category": "Pesticides",
+    "price": 14.99,
+    "stock": 45,
+    "description": "Organic cold-pressed neem oil concentrate. Excellent broad-spectrum treatment for aphids, spider mites, whiteflies, leaf spots, and rust.",
+    "imageUrl": "/images/neem_oil.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=organic+neem+oil+spray+for+plants",
+      "flipkart": "https://www.flipkart.com/search?q=neem+oil+spray+for+plants",
+      "meesho": "https://www.meesho.com/search?q=neem+oil+spray",
+      "agribegri": "https://agribegri.com/search.php?q=neem+oil",
+      "bighaat": "https://www.bighaat.com/search?q=neem+oil"
+    }
+  },
+  {
+    "id": "prod_2",
+    "name": "Liquid Seaweed Extract",
+    "category": "Fertilizers",
+    "price": 16.99,
+    "stock": 30,
+    "description": "Concentrated cold-processed organic kelp fertilizer. Packed with natural trace elements that promote root growth, stress tolerance, and foliage color.",
+    "imageUrl": "/images/seaweed.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=liquid+seaweed+extract+fertilizer",
+      "flipkart": "https://www.flipkart.com/search?q=seaweed+extract+fertilizer",
+      "meesho": "https://www.meesho.com/search?q=seaweed+liquid",
+      "agribegri": "https://agribegri.com/search.php?q=seaweed+extract",
+      "bighaat": "https://www.bighaat.com/search?q=seaweed"
+    }
+  },
+  {
+    "id": "prod_3",
+    "name": "NPK 19-19-19 Soluble Fertilizer",
+    "category": "Fertilizers",
+    "price": 12.49,
+    "stock": 50,
+    "description": "Highly water-soluble balanced NPK fertilizer. Ideal for young vegetable plants, tomatoes, and indoor potted plants to accelerate growth.",
+    "imageUrl": "/images/npk.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=npk+19+19+19+fertilizer",
+      "flipkart": "https://www.flipkart.com/search?q=npk+19+19+19+fertilizer",
+      "meesho": "https://www.meesho.com/search?q=npk+fertilizer",
+      "agribegri": "https://agribegri.com/search.php?q=npk+19-19-19",
+      "bighaat": "https://www.bighaat.com/search?q=npk+19-19-19"
+    }
+  },
+  {
+    "id": "prod_4",
+    "name": "Copper Fungicide Solution",
+    "category": "Pesticides",
+    "price": 18.49,
+    "stock": 25,
+    "description": "Ready-to-use organic copper soap spray. Highly effective in treating and preventing potato late blight, tomato early blight, and apple scab.",
+    "imageUrl": "/images/copper_fungicide.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=copper+fungicide+for+plants",
+      "flipkart": "https://www.flipkart.com/search?q=copper+fungicide",
+      "meesho": "https://www.meesho.com/search?q=copper+fungicide",
+      "agribegri": "https://agribegri.com/search.php?q=copper+fungicide",
+      "bighaat": "https://www.bighaat.com/search?q=copper+fungicide"
+    }
+  },
+  {
+    "id": "prod_5",
+    "name": "Certified Organic Compost",
+    "category": "Fertilizers",
+    "price": 9.99,
+    "stock": 60,
+    "description": "Rich, aged forest leaf and manure organic compost. Enriches soil microbiome, improves moisture retention, and acts as a slow-release natural food.",
+    "imageUrl": "/images/compost.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=organic+compost+fertilizer+for+plants",
+      "flipkart": "https://www.flipkart.com/search?q=organic+compost+fertilizer",
+      "meesho": "https://www.meesho.com/search?q=vermicompost+plant",
+      "agribegri": "https://agribegri.com/search.php?q=compost",
+      "bighaat": "https://www.bighaat.com/search?q=compost"
+    }
+  },
+  {
+    "id": "prod_6",
+    "name": "Insecticidal Soap Spray",
+    "category": "Pesticides",
+    "price": 10.99,
+    "stock": 35,
+    "description": "Foliage contact insect killer. Made from natural fatty acid soaps, safe to use up to the day of harvest on edible plants.",
+    "imageUrl": "/images/insect_soap.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=insecticidal+soap+spray+for+plants",
+      "flipkart": "https://www.flipkart.com/search?q=insecticidal+soap+spray",
+      "meesho": "https://www.meesho.com/search?q=insecticide+spray+plants",
+      "agribegri": "https://agribegri.com/search.php?q=insecticide",
+      "bighaat": "https://www.bighaat.com/search?q=insecticide"
+    }
+  },
+  {
+    "id": "prod_7",
+    "name": "Hybrid Cherry Tomato Seeds",
+    "category": "Seeds",
+    "price": 3.49,
+    "stock": 120,
+    "description": "Premium seeds for sweet, bite-sized cherry tomatoes. High germination rate, disease resistant, and yields heavily from summer to autumn.",
+    "imageUrl": "/images/tomato_seeds.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=hybrid+cherry+tomato+seeds",
+      "flipkart": "https://www.flipkart.com/search?q=cherry+tomato+seeds",
+      "meesho": "https://www.meesho.com/search?q=tomato+seeds",
+      "agribegri": "https://agribegri.com/search.php?q=tomato+seeds",
+      "bighaat": "https://www.bighaat.com/search?q=tomato+seeds"
+    }
+  },
+  {
+    "id": "prod_8",
+    "name": "Heirloom Potato Seed Tubers",
+    "category": "Seeds",
+    "price": 5.99,
+    "stock": 80,
+    "description": "Certified disease-free potato seed tubers (Russet variety). Ready for hilling in soil beds or planting bags.",
+    "imageUrl": "/images/potato_seeds.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=potato+seeds+tubers+for+planting",
+      "flipkart": "https://www.flipkart.com/search?q=potato+seeds",
+      "meesho": "https://www.meesho.com/search?q=potato+seeds",
+      "agribegri": "https://agribegri.com/search.php?q=potato+seeds",
+      "bighaat": "https://www.bighaat.com/search?q=potato+seeds"
+    }
+  },
+  {
+    "id": "prod_9",
+    "name": "Bypass Pruning Shears",
+    "category": "Gardening Tools",
+    "price": 21.99,
+    "stock": 20,
+    "description": "Stainless steel blade bypass pruners with spring-loaded mechanism and ergonomic handles. Cuts stems up to 3/4 inch diameter cleanly.",
+    "imageUrl": "/images/shears.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=gardening+bypass+pruning+shears",
+      "flipkart": "https://www.flipkart.com/search?q=pruning+shears+gardening",
+      "meesho": "https://www.meesho.com/search?q=gardening+cutter+pruner",
+      "agribegri": "https://agribegri.com/search.php?q=pruning+shear",
+      "bighaat": "https://www.bighaat.com/search?q=pruner"
+    }
+  },
+  {
+    "id": "prod_10",
+    "name": "3-in-1 Soil Moisture & pH Meter",
+    "category": "Gardening Tools",
+    "price": 11.99,
+    "stock": 40,
+    "description": "Probe sensor to monitor soil moisture, pH value, and sunlight exposure. No battery required. Prevent underwatering and overwatering.",
+    "imageUrl": "/images/moisture_meter.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=soil+moisture+ph+meter+for+plants",
+      "flipkart": "https://www.flipkart.com/search?q=soil+moisture+ph+meter",
+      "meesho": "https://www.meesho.com/search?q=soil+tester+meter",
+      "agribegri": "https://agribegri.com/search.php?q=soil+testing",
+      "bighaat": "https://www.bighaat.com/search?q=soil+meter"
+    }
+  },
+  {
+    "id": "prod_11",
+    "name": "Stainless Steel Hand Trowel",
+    "category": "Gardening Tools",
+    "price": 8.99,
+    "stock": 35,
+    "description": "Polished heavy-duty stainless steel hand shovel with scale markings. Gel padded ergonomic handle for comfortable digging.",
+    "imageUrl": "/images/trowel.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=stainless+steel+gardening+hand+trowel",
+      "flipkart": "https://www.flipkart.com/search?q=gardening+hand+trowel",
+      "meesho": "https://www.meesho.com/search?q=gardening+shovel+trowel",
+      "agribegri": "https://agribegri.com/search.php?q=trowel",
+      "bighaat": "https://www.bighaat.com/search?q=trowel"
+    }
+  },
+  {
+    "id": "prod_12",
+    "name": "Classic 2-Gallon Watering Can",
+    "category": "Gardening Tools",
+    "price": 13.99,
+    "stock": 15,
+    "description": "High-grade weather-proof plastic watering can with dual handles for balanced carrying, and a removable brass sprinkler rosette.",
+    "imageUrl": "/images/watering_can.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=gardening+watering+can",
+      "flipkart": "https://www.flipkart.com/search?q=watering+can+gardening",
+      "meesho": "https://www.meesho.com/search?q=watering+can",
+      "agribegri": "https://agribegri.com/search.php?q=watering+can",
+      "bighaat": "https://www.bighaat.com/search?q=watering+can"
+    }
+  },
+  {
+    "id": "prod_13",
+    "name": "Mancozeb Broad-Spectrum Fungicide",
+    "category": "Pesticides",
+    "price": 22.99,
+    "stock": 30,
+    "description": "Contact multi-site fungicide with both protective and curative action. Controls rust, early blight, late blight, downy mildew, and black rot on corn, grapes, tomatoes, and potatoes.",
+    "imageUrl": "/images/mancozeb.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=mancozeb+fungicide+for+plants",
+      "flipkart": "https://www.flipkart.com/search?q=mancozeb+fungicide",
+      "meesho": "https://www.meesho.com/search?q=fungicide+powder",
+      "agribegri": "https://agribegri.com/search.php?q=mancozeb",
+      "bighaat": "https://www.bighaat.com/search?q=mancozeb"
+    }
+  },
+  {
+    "id": "prod_14",
+    "name": "Chlorothalonil Contact Fungicide",
+    "category": "Pesticides",
+    "price": 19.75,
+    "stock": 22,
+    "description": "Broad-spectrum protective fungicide. Highly effective against gray leaf spot, early blight, and leaf spots on corn, tomato, and ornamentals. No resistance risk due to multi-site action.",
+    "imageUrl": "/images/chlorothalonil.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=chlorothalonil+fungicide",
+      "flipkart": "https://www.flipkart.com/search?q=chlorothalonil+fungicide",
+      "meesho": "https://www.meesho.com/search?q=fungicide+spray+plants",
+      "agribegri": "https://agribegri.com/search.php?q=chlorothalonil",
+      "bighaat": "https://www.bighaat.com/search?q=chlorothalonil"
+    }
+  },
+  {
+    "id": "prod_15",
+    "name": "Trichoderma Bio-Fungicide",
+    "category": "Pesticides",
+    "price": 24.99,
+    "stock": 18,
+    "description": "Soil-drench biological fungicide using beneficial Trichoderma harzianum fungi. Suppresses Pythium, Fusarium, and Rhizoctonia root rots. Safe for organic farming and compatible with most beneficial insects.",
+    "imageUrl": "/images/trichoderma.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=trichoderma+viride+bio+fungicide",
+      "flipkart": "https://www.flipkart.com/search?q=trichoderma+bio+fungicide",
+      "meesho": "https://www.meesho.com/search?q=trichoderma",
+      "agribegri": "https://agribegri.com/search.php?q=trichoderma",
+      "bighaat": "https://www.bighaat.com/search?q=trichoderma"
+    }
+  },
+  {
+    "id": "prod_16",
+    "name": "Pyrethrin Organic Insecticide",
+    "category": "Pesticides",
+    "price": 16.49,
+    "stock": 40,
+    "description": "Fast-acting plant-derived pyrethrin spray. Controls aphids, whiteflies, leafhoppers, thrips, and beetles on vegetables and ornamentals. Breaks down rapidly in sunlight — safe for pollinators when applied at dusk.",
+    "imageUrl": "/images/pyrethrin.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=organic+pyrethrin+insecticide",
+      "flipkart": "https://www.flipkart.com/search?q=pyrethrin+insecticide",
+      "meesho": "https://www.meesho.com/search?q=insecticide+plants",
+      "agribegri": "https://agribegri.com/search.php?q=pyrethrin",
+      "bighaat": "https://www.bighaat.com/search?q=pyrethrin"
+    }
+  },
+  {
+    "id": "prod_17",
+    "name": "Bacillus thuringiensis (Bt) Spray",
+    "category": "Pesticides",
+    "price": 17.99,
+    "stock": 28,
+    "description": "OMRI-listed biological insecticide targeting caterpillars, armyworms, corn borers, and tomato hornworms. Ingested by larvae, causing gut paralysis. Safe for birds, bees, fish, and mammals.",
+    "imageUrl": "/images/bt_spray.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=bacillus+thuringiensis+bt+spray",
+      "flipkart": "https://www.flipkart.com/search?q=bacillus+thuringiensis+spray",
+      "meesho": "https://www.meesho.com/search?q=bio+insecticide",
+      "agribegri": "https://agribegri.com/search.php?q=bacillus+thuringiensis",
+      "bighaat": "https://www.bighaat.com/search?q=bacillus+thuringiensis"
+    }
+  },
+  {
+    "id": "prod_18",
+    "name": "Sulfur Dust Fungicide",
+    "category": "Pesticides",
+    "price": 11.49,
+    "stock": 50,
+    "description": "Fine-grade elemental sulfur dust for powdery mildew, rust, and leaf scorch control on strawberries, cherries, grapes, and ornamentals. Approved for certified organic operations.",
+    "imageUrl": "/images/sulfur_dust.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=sulfur+fungicide+powder+for+plants",
+      "flipkart": "https://www.flipkart.com/search?q=sulfur+fungicide+powder",
+      "meesho": "https://www.meesho.com/search?q=sulfur+powder+plants",
+      "agribegri": "https://agribegri.com/search.php?q=sulfur+fungicide",
+      "bighaat": "https://www.bighaat.com/search?q=sulfur+fungicide"
+    }
+  },
+  {
+    "id": "prod_19",
+    "name": "Diatomaceous Earth Insect Killer",
+    "category": "Pesticides",
+    "price": 13.25,
+    "stock": 45,
+    "description": "Food-grade diatomaceous earth powder. Kills slugs, snails, earwigs, ants, and crawling soil insects by abrading their exoskeletons. Safe around children and pets when dry. Reapply after heavy rain.",
+    "imageUrl": "/images/diatomaceous_earth.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=diatomaceous+earth+powder+food+grade",
+      "flipkart": "https://www.flipkart.com/search?q=diatomaceous+earth+powder",
+      "meesho": "https://www.meesho.com/search?q=diatomaceous+earth",
+      "agribegri": "https://agribegri.com/search.php?q=diatomaceous+earth",
+      "bighaat": "https://www.bighaat.com/search?q=diatomaceous+earth"
+    }
+  },
+  {
+    "id": "prod_20",
+    "name": "Spinosad Biological Insecticide",
+    "category": "Pesticides",
+    "price": 26.49,
+    "stock": 20,
+    "description": "Fermentation-derived biological insecticide from Saccharopolyspora spinosa bacteria. Rapidly controls leaf miners, thrips, fire ants, and caterpillars. OMRI-listed for organic use with very low mammalian toxicity.",
+    "imageUrl": "/images/spinosad.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=spinosad+insecticide+spray",
+      "flipkart": "https://www.flipkart.com/search?q=spinosad+insecticide",
+      "meesho": "https://www.meesho.com/search?q=biological+insecticide",
+      "agribegri": "https://agribegri.com/search.php?q=spinosad",
+      "bighaat": "https://www.bighaat.com/search?q=spinosad"
+    }
+  },
+  {
+    "id": "prod_21",
+    "name": "Azoxystrobin Systemic Fungicide",
+    "category": "Pesticides",
+    "price": 28.99,
+    "stock": 24,
+    "description": "Broad-spectrum strobilurin (QoI) systemic fungicide providing both protective and curative action. Controls gray leaf spot, northern leaf blight, powdery mildew, and rust on corn, grapes, and vegetables. Absorbed and translocated throughout the plant.",
+    "imageUrl": "/images/azoxystrobin.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=azoxystrobin+fungicide",
+      "flipkart": "https://www.flipkart.com/search?q=azoxystrobin+fungicide",
+      "meesho": "https://www.meesho.com/search?q=systemic+fungicide",
+      "agribegri": "https://agribegri.com/search.php?q=azoxystrobin",
+      "bighaat": "https://www.bighaat.com/search?q=azoxystrobin"
+    }
+  },
+  {
+    "id": "prod_22",
+    "name": "Propiconazole Triazole Fungicide",
+    "category": "Pesticides",
+    "price": 23.75,
+    "stock": 18,
+    "description": "Systemic triazole (DMI) fungicide with curative and protective activity. Highly effective against common rust, gray leaf spot, brown spot (rice), and leaf scorch on cereals, corn, and ornamentals. Excellent rainfast performance within 1 hour of application.",
+    "imageUrl": "/images/propiconazole.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=propiconazole+fungicide",
+      "flipkart": "https://www.flipkart.com/search?q=propiconazole+fungicide",
+      "meesho": "https://www.meesho.com/search?q=triazole+fungicide",
+      "agribegri": "https://agribegri.com/search.php?q=propiconazole",
+      "bighaat": "https://www.bighaat.com/search?q=propiconazole"
+    }
+  },
+  {
+    "id": "prod_23",
+    "name": "Tricyclazole Rice Blast Fungicide",
+    "category": "Pesticides",
+    "price": 31.49,
+    "stock": 15,
+    "description": "Specialised systemic fungicide for controlling rice leaf blast and neck blast caused by Magnaporthe oryzae. Interferes with melanin biosynthesis in the fungal cell wall. Apply at early blast lesion stage and again at boot/heading stage for maximum protection.",
+    "imageUrl": "/images/tricyclazole.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=tricyclazole+rice+blast+fungicide",
+      "flipkart": "https://www.flipkart.com/search?q=tricyclazole+fungicide",
+      "meesho": "https://www.meesho.com/search?q=rice+blast+fungicide",
+      "agribegri": "https://agribegri.com/search.php?q=tricyclazole",
+      "bighaat": "https://www.bighaat.com/search?q=tricyclazole"
+    }
+  },
+  {
+    "id": "prod_24",
+    "name": "Potassium Bicarbonate Fungicide",
+    "category": "Pesticides",
+    "price": 15.99,
+    "stock": 38,
+    "description": "OMRI-listed contact fungicide for powdery mildew, botrytis, and leaf scorch on strawberries, grapes, cherries, and cucurbits. Disrupts fungal cell membranes. Safe for use up to day of harvest. Compatible with most beneficial insects and bee activity.",
+    "imageUrl": "/images/potassium_bicarbonate.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=potassium+bicarbonate+fungicide+plants",
+      "flipkart": "https://www.flipkart.com/search?q=potassium+bicarbonate+fungicide",
+      "meesho": "https://www.meesho.com/search?q=organic+fungicide",
+      "agribegri": "https://agribegri.com/search.php?q=potassium+bicarbonate",
+      "bighaat": "https://www.bighaat.com/search?q=potassium+bicarbonate"
+    }
+  },
+  {
+    "id": "prod_25",
+    "name": "Myclobutanil Systemic Fungicide",
+    "category": "Pesticides",
+    "price": 19.99,
+    "stock": 22,
+    "description": "Systemic sterol-inhibiting (DMI) fungicide for controlling powdery mildew on cherries, strawberries, and apple scab. Excellent upward and downward translocation stops disease progression within infected tissue. Provides up to 21-day protection interval.",
+    "imageUrl": "/images/myclobutanil.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=myclobutanil+fungicide",
+      "flipkart": "https://www.flipkart.com/search?q=myclobutanil+fungicide",
+      "meesho": "https://www.meesho.com/search?q=powdery+mildew+fungicide",
+      "agribegri": "https://agribegri.com/search.php?q=myclobutanil",
+      "bighaat": "https://www.bighaat.com/search?q=myclobutanil"
+    }
+  },
+  {
+    "id": "prod_26",
+    "name": "Imidacloprid Soil Drench",
+    "category": "Pesticides",
+    "price": 24.49,
+    "stock": 28,
+    "description": "Systemic neonicotinoid insecticide absorbed through roots for long-lasting protection against aphids, whiteflies, thrips, and leafhoppers. Apply as a soil drench at transplanting. Not for use during bloom period to protect pollinators.",
+    "imageUrl": "/images/imidacloprid.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=imidacloprid+insecticide+for+plants",
+      "flipkart": "https://www.flipkart.com/search?q=imidacloprid+insecticide",
+      "meesho": "https://www.meesho.com/search?q=imidacloprid",
+      "agribegri": "https://agribegri.com/search.php?q=imidacloprid",
+      "bighaat": "https://www.bighaat.com/search?q=imidacloprid"
+    }
+  },
+  {
+    "id": "prod_27",
+    "name": "Kaolin Clay Particle Film",
+    "category": "Pesticides",
+    "price": 18.75,
+    "stock": 32,
+    "description": "Natural mineral-based particle film spray that physically deters insects and reduces fruit sunburn. Repels apple maggot fly, pear psylla, leafhoppers, and thrips. OMRI-listed and safe for organic operations. Apply to create a white reflective barrier on foliage and fruit.",
+    "imageUrl": "/images/kaolin_clay.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=kaolin+clay+spray+for+plants",
+      "flipkart": "https://www.flipkart.com/search?q=kaolin+clay+plants",
+      "meesho": "https://www.meesho.com/search?q=kaolin+clay",
+      "agribegri": "https://agribegri.com/search.php?q=kaolin+clay",
+      "bighaat": "https://www.bighaat.com/search?q=kaolin+clay"
+    }
+  },
+  {
+    "id": "prod_28",
+    "name": "Abamectin Acaricide & Insecticide",
+    "category": "Pesticides",
+    "price": 29.99,
+    "stock": 16,
+    "description": "Natural fermentation product from Streptomyces avermitilis. Highly effective against spider mites, russet mites, leafminers, and psyllids. Acts on the nervous system causing paralysis. Translaminar activity reaches pests feeding inside leaf tissue.",
+    "imageUrl": "/images/abamectin.jpg",
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.in/s?k=abamectin+miticide+insecticide",
+      "flipkart": "https://www.flipkart.com/search?q=abamectin+insecticide",
+      "meesho": "https://www.meesho.com/search?q=spider+mite+spray",
+      "agribegri": "https://agribegri.com/search.php?q=abamectin",
+      "bighaat": "https://www.bighaat.com/search?q=abamectin"
+    }
+  }
+]
